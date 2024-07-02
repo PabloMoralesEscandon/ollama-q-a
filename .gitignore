@@ -1,0 +1,4 @@
+docs/*.txt
+qa/*.txt
+venv
+venv/*
